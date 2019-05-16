@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url(https://image.tmdb.org/t/p/w1280/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg);
+}
+
+.container {
+    color: white;
+    font-weight: bolder
+
+}
+
+.container strong{
+    color: red;
+}
+
+.digit {
+    width: 200px;
+}
